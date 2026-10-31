@@ -1,0 +1,6 @@
+{
+  "name": "MHBDMART - Premium E-Commerce Platform",
+  "description": "MHBDMART is Bangladesh's premier online shopping destination featuring curated electronics, lifestyle fashion, smart home essentials, instant WhatsApp ordering, bKash, Nagad, Rocket, and Cash on Delivery with full bilingual English & Bengali support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
